@@ -1,10 +1,6 @@
 ![nexus](./nexus-labs-logo.svg)
 
 <p align="center">
-  <img src="./assets/nexus-labs-logo.svg" alt="Nexus Hands-On Labs" width="600"/>
-</p>
-
-<p align="center">
   <strong>Artifact Management · Reverse Proxy · CI/CD Pipelines</strong>
 </p>
 
